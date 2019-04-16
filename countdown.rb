@@ -2,5 +2,5 @@
 
 def countdown(new_year)
   while new_year > 0
-  puts ""
+  puts "#{number} SECOND(S)!"
 end
