@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(new_year)
-  while new_year > 0
-  puts "#{number} SECOND(S)!"
+def countdown(count)
+  while count > 0
+  puts "#{count} SECOND(S)!"
 end
